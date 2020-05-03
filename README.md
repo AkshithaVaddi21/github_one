@@ -1,2 +1,1 @@
-# github_one
-This is just for git demo
+Worked on the modern JavaScript concepts such as ES6, ES7 and with features of Angular 6 such as Modules, directives, decorators, dependency injection, component communication, services, routing, data binding and form validations.
