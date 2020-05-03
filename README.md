@@ -1,1 +1,1 @@
-Worked on the modern JavaScript concepts such as ES6, ES7 and with features of Angular 6 such as Modules, directives, decorators, dependency injection, component communication, services, routing, data binding and form validations.
+This project is completely on modern JavaScript concepts such as ES6, ES7 and with features like Modules, directives, decorators, dependency injection, component communication, services, routing, data binding and form validations.
